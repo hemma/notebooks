@@ -61,3 +61,10 @@ target/
 
 #Ipython Notebook
 .ipynb_checkpoints
+
+
+#kaggle
+Kaggle/
+
+#Dotaa
+Dota pred.ipynb
